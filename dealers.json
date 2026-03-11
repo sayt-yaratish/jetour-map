@@ -1,0 +1,170 @@
+[
+{
+    "id": 140,
+    "name": "ADM-ASTER SAMARQAND",
+    "city": "Samarqand",
+    "region": "Samarqand",
+    "address": "Samarqand viloyati, Samarqand tumani, Gulobod qishlog‘i, Yangiriq mahallasi (Yangi avto bozor yonida)",
+    "phone": "998555203553",
+    "coords": [
+      39.609511,
+      66.896067
+    ]
+  },
+  {
+    "id": 141,
+    "name": "ADM-ASTER NAMANGAN",
+    "city": "Namangan",
+    "region": "Namangan",
+    "address": "Namangan viloyati, Namangan shahri, Kosonsoy ko‘chasi, 1-uy",
+    "phone": "998555203553",
+    "coords": [
+      41.008728,
+      71.64253
+    ]
+  },
+  {
+    "id": 142,
+    "name": "SMARTVILLE",
+    "city": "Andijon",
+    "region": "Andijon",
+    "address": "Andijon viloyati, Andijon shahri, Amir Temur ko‘chasi, 5-uy",
+    "phone": "998992332211",
+    "coords": [
+      40.74148,
+      72.320063
+    ]
+  },
+  {
+    "id": 143,
+    "name": "TURBO LANE",
+    "city": "Tashkent",
+    "region": "Tashkent",
+    "address": "Toshkent shahri, Sergeli tumani, 2-Kipchoq proyezd, 40/12-uy (amaldagi manzil)",
+    "phone": "998500033300",
+    "coords": [
+      41.201313,
+      69.237751
+    ]
+  },
+  {
+    "id": 144,
+    "name": "XORAZM TA'MINOT",
+    "city": "Urganch",
+    "region": "Urganch",
+    "address": "Urganch shahri, Sanoatchilar kochasi, 2-uy",
+    "phone": "998500071131",
+    "coords": [
+      41.530906,
+      60.651787
+    ]
+  },
+  {
+    "id": 145,
+    "name": "SULTANOV MOTORS",
+    "city": "Bukhara",
+    "region": "Bukhara",
+    "address": "Buxoro viloyati, Buxoro shahri, Gazli prospekti, 500-uy.",
+    "phone": "998785554455",
+    "coords": [
+      39.794346,
+      64.441902
+    ]
+  },
+  {
+    "id": 146,
+    "name": "TURBO LANE",
+    "city": "Tashkent",
+    "region": "Tashkent",
+    "address": "Toshkent shahri Yangi Sergeli 9-ko‘chasi",
+    "phone": "998500033300",
+    "coords": [
+      41.237545,
+      69.214465
+    ]
+  },
+  {
+    "id": 147,
+    "name": "GRAND AVTO MOTORS F\"",
+    "city": "Fergana",
+    "region": "Fergana",
+    "address": "Farg‘ona viloyati, Farg‘ona shahri, \"Ibrat\" MSG, Temir ko‘chasi, 41-\"B\"-uy, 1-xonadon.",
+    "phone": "998956733333",
+    "coords": [
+      40.395379,
+      71.758989
+    ]
+  },
+  {
+    "id": 148,
+    "name": "OLAM AVTO",
+    "city": "Tashkent",
+    "region": "Tashkent",
+    "address": "3 Б, Elbek Street 61, 100000, Tashkent, Uzbekistan",
+    "phone": "998712021312",
+    "coords": [
+      41.296201,
+      69.326251
+    ]
+  },
+  {
+    "id": 149,
+    "name": "TURBO LANE Novza",
+    "city": "Tashkent",
+    "region": "Tashkent",
+    "address": "г.Ташкент,Чиланзарский р-н,проспект Бунёдкор 4А,5",
+    "phone": "998998705700",
+    "coords": [
+      41.286952,
+      69.216351
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Autoliga",
+    "city": "Almalyk",
+    "region": "Almalyk",
+    "address": "Ташкентская область, г.Алмалык, ул.Бузтонг дом 70",
+    "phone": "998942101700",
+    "coords": [
+      40.89499448361531,
+      69.59414400258375
+    ]
+  },
+  {
+    "id": 151,
+    "name": "M-PRODUCTOV",
+    "city": "Nukus",
+    "region": "Nukus",
+    "address": "Republic of Karakalpakstan, Nukus city, Garezsizlik Street, house 55",
+    "phone": "998997340333",
+    "coords": [
+      42.46050092023752,
+      59.613237667691024
+    ]
+  },
+  {
+    "id": 152,
+    "name": "LOYALTY MOTORS",
+    "city": "Jetour",
+    "region": "Jetour",
+    "address": "Город Ташкент ,Яккасарайский район, малая кольцевая дорога, 29.",
+    "phone": "998785554114",
+    "coords": [
+      41.26161430627983,
+      69.22922898663394
+    ]
+  },
+  {
+    "id": 153,
+    "name": "MIR MOTO LOTTO",
+    "city": "Navoi",
+    "region": "Navoi",
+    "address": "Навоийская область, Карманинский р-н, ул.Ташкентская, дом 70",
+    "phone": "998918691000",
+    "coords": [
+      40.14678927273612,
+      65.34752142445758
+    ]
+  }  
+]
